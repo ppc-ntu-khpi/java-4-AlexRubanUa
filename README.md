@@ -45,4 +45,4 @@ public class Transport {
 
 ## Результат виконання коду
 
-![alt text](https://github.com/ppc-ntu-khpi/java-4-AlexRubanUa/blob/master/images/Transport%20diagram.png)
+![alt text](https://github.com/ppc-ntu-khpi/java-4-AlexRubanUa/blob/master/images/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-18%20154042.png)
